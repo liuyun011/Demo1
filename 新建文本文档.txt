@@ -7,11 +7,7 @@ how are you java
 
 
 你说你  想要逃  偏偏注定要落脚
-这是一个测试pull  ok
-    
-测试修改同步   
-
-继续测试pull
+这是一个测试pull  o
   继续测试push
   再来一次
   最后一次
